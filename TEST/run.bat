@@ -1,0 +1,2 @@
+..\flix --preview ./
+pause
